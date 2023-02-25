@@ -1,2 +1,2 @@
 # TT-gen-image
- 호랑이 키우기
+Wicys dapp project : Tame Tiger
